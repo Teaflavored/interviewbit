@@ -17,5 +17,3 @@ function concentricCircle(A) {
     newRow,
   ];
 }
-
-console.log(concentricCircle(4));
